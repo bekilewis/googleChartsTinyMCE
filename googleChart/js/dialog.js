@@ -16,6 +16,7 @@ var GoogleChartDialog = {
 		var parentWin = (!window.frameElement && window.dialogArguments) || opener || parent || top;
 		var parentEditor = parentWin.my_namespace_activeEditor;
 		parentEditor.execCommand('mceInsertRawHTML', false, '<object width="700px" height="400px" data="http://sysdev/keypoint/database/graph.asp?id=' + id + '" type="text/html"></object>');
+		tinyMCEPopup.close();
 		//}
 	}
 };

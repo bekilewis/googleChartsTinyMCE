@@ -4,7 +4,8 @@ googleChartsTinyMCE
 Google Charts plugin for TinyMCE
 
 See: https://developers.google.com/chart/<br />
-See: http://www.tinymce.com/
+See: http://www.tinymce.com/<br/>
+See: http://handsontable.com
 
 This project is working but is still in development. The code is very messy still, I will clean it up and update it soon. If you have any queries about implementation, or would like to help make this plugin work please send me a message. 
 
